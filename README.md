@@ -1,7 +1,7 @@
 ### Olá! 👋 eu sou o Pascoal Kahamba
 
 - 🔭 Hoje trabalho com front-end
-- 🌱Estudando Javascript
+- 🌱Estudando React
  
  <div  >
   <a href="https://github.com/pascoalkahamba">
