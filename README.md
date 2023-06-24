@@ -1,7 +1,7 @@
 ## Hello 👋 I'm Pascoal Kahamba
 
-- 🔭 Today i work with front-end
-- 🌱 I'm studying TypeScript and React
+- 🔭 Today I work with front-end
+- 🌱 I'm studying TypeScript and Nextjs
  
  <div  >
   <a href="https://github.com/pascoalkahamba">
