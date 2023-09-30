@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Pascoal Kahamba
 
-- 🔭 Today I work with front-end
+- 🔭 Nowadays I working as a Front-End Developer
 - 🌱 I'm studying TypeScript and Nextjs
  
  <div  >
