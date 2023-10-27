@@ -20,6 +20,9 @@
 </div>
 
 ##
+<p>My journey as a developer started in 2018, from then on I went through a lot of experiences that made me a more technically skilled developer. For more information about me see my <a href = "https://my-portfolio-five-beige.vercel.app/" target="_blank">Portfolio</a>.</p>
+
+##
 <div>
   <a href="https://www.instagram.com/pascoalkahamba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://web.facebook.com/PascoalKahamba?refid=7" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
