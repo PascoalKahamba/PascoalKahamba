@@ -28,6 +28,6 @@
 </div> 
 
 ##
-<p>My journey as a developer started in 2018, from then on I went through a lot of experiences that made me a more technically skilled developer. For more information about me <a href="https://my-portfolio-five-beige.vercel.app/" target="_blank">see my portfolio</a>.</p>
+<p>My journey as a developer started in 2018, from then on I went through a lot of experiences that made me a more technically skilled developer. For more information about me <a href="https://pascoalkahamba.vercel.app/" target="_blank">see my portfolio</a>.</p>
 
  
