@@ -1,7 +1,7 @@
 ## Hello 👋 I'm Pascoal Kahamba
 
-- 🔭 Nowadays I'm working as a Front-End Developer
-- 🌱 I'm studying TypeScript and Nextjs
+- 🔭 Nowadays I'm working as a Full-Stack Developer
+- 🌱 I'm studying Nextjs and Nodejs
  
  <div  >
   <a href="https://github.com/pascoalkahamba">
@@ -19,7 +19,7 @@
    <img align="center" alt="Rafa-Vue" height="30" width="40"
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
   <img align="center" alt="Francisco-NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
-       
+ <img align="center" alt="pascoal-nodejs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
 
 ##
